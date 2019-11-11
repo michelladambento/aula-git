@@ -15,6 +15,8 @@ https://git-scm.com/dowload
 - [x] Você adiciona as novas funcionalidades ao seu projeto em produção
 - [x] Vocẽ quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto 
 
+- [x] Vocẽ quer colocar seu projeto na nuvem.
+
 - `git init` // inicializa a linha do tempo
 - `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
 - `git commit` // adiciona um ponto na linha do tempo
